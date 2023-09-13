@@ -34,3 +34,5 @@ const Accordion = ({ heading, paragraph }) => {
     </div>
   );
 };
+
+export default Accordion;
